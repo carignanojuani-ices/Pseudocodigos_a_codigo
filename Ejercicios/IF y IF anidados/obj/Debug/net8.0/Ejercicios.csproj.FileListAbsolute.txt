@@ -1,0 +1,30 @@
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\bin\Debug\net8.0\Ejercicios.exe
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\bin\Debug\net8.0\Ejercicios.deps.json
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\bin\Debug\net8.0\Ejercicios.runtimeconfig.json
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\bin\Debug\net8.0\Ejercicios.dll
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\bin\Debug\net8.0\Ejercicios.pdb
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.dll
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\refint\Ejercicios.dll
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.pdb
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Usuario\Documents\GitHub\EjemploClase\Ejercicios\Ejercicios\obj\Debug\net8.0\ref\Ejercicios.dll
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.sourcelink.json
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.dll
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\refint\Ejercicios.dll
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.pdb
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\bin\Debug\net8.0\Ejercicios.exe
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\bin\Debug\net8.0\Ejercicios.deps.json
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\bin\Debug\net8.0\Ejercicios.runtimeconfig.json
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\bin\Debug\net8.0\Ejercicios.dll
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\bin\Debug\net8.0\Ejercicios.pdb
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Juani\ICES\EjemploClase\Ejercicios\IF y IF anidados\obj\Debug\net8.0\ref\Ejercicios.dll
